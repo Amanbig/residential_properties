@@ -113,6 +113,7 @@ Ensure your project has a `vercel.json` file with the following configuration:
 # Mobile
 <p align="center">
   <img src="https://github.com/Amanbig/residential_properties/blob/master/image5.png" width="200"/>
+    <img src="https://github.com/Amanbig/residential_properties/blob/master/image6.png" width="200"/>
 </p>
 
 
