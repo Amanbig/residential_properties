@@ -103,9 +103,10 @@ Ensure your project has a `vercel.json` file with the following configuration:
 ```
 
 <div align="center">
-  <img src="https://github.com/Amanbig/residential_properties/blob/main/images/image2.jpg" alt="Home Screen" width="200"/>
-  <img src="https://github.com/Amanbig/residential_properties/blob/main/images/image1.jpg" alt="Edit Note" width="200"/>
-    <img src="https://github.com/Amanbig/residential_properties/blob/main/images/image1.jpg" alt="Edit Note" width="200"/>
+  <img src="https://github.com/Amanbig/residential_properties/blob/main/images/image1.png"  width="200"/>
+  <img src="https://github.com/Amanbig/residential_properties/blob/main/images/image2.png"  width="200"/>
+    <img src="https://github.com/Amanbig/residential_properties/blob/main/images/image3.png"  width="200"/>
+    <img src="https://github.com/Amanbig/residential_properties/blob/main/images/image4.png"  width="200"/>
 </div>
 
 <div align="center">
