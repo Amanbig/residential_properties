@@ -1,4 +1,4 @@
-# Real Estate Property Listing and Recommendation System
+![image](https://github.com/user-attachments/assets/a2988a71-4f5d-48a4-9aad-7a0ef0ba1f23)# Real Estate Property Listing and Recommendation System
 
 This is a full-stack web application built with React, Node.js, Express, and MongoDB. It allows users to view and explore real estate property listings and get personalized recommendations.
 
@@ -102,17 +102,7 @@ Ensure your project has a `vercel.json` file with the following configuration:
 }
 ```
 
-<div align="center">
-  <img src="https://github.com/Amanbig/residential_properties/blob/master/image1.png"  width="200"/>
-  <img src="https://github.com/Amanbig/residential_properties/blob/master/image2.png"  width="200"/>
-    <img src="https://github.com/Amanbig/residential_properties/blob/master/image3.png"  width="200"/>
-    <img src="https://github.com/Amanbig/residential_properties/blob/master/image4.png"  width="200"/>
-</div>
-
-<div align="center">
-   <img src="https://github.com/Amanbig/residential_properties/blob/master/image1.png"  width="200"/>
-  <img src="https://github.com/Amanbig/residential_properties/blob/master/image2.png"  width="200"/>
-    <img src="https://github.com/Amanbig/residential_properties/blob/master/image3.png"  width="200"/>
-    <img src="https://github.com/Amanbig/residential_properties/blob/master/image4.png"  width="200"/>
-</div>
+<img src="https://github.com/Amanbig/residential_properties/blob/master/image1.png"  width="200"/>
+<img src="https://github.com/Amanbig/residential_properties/blob/master/image2.png"  width="200"/>
+<img src="https://github.com/Amanbig/residential_properties/blob/master/image5.png"  width="200"/>
 
